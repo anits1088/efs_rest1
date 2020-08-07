@@ -1,0 +1,1 @@
+web: gunicorn efs_rin.wsgi --log-file -
